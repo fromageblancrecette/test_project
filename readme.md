@@ -5,9 +5,9 @@
 * 強調 *
 > 引用引用
 
- - [ ]AAAA
- - [x]BBBB
- - [ ]CCCC
+ [ ]AAAA
+ [x]BBBB
+ [ ]CCCC
  ---- [x]DDDD
  ---- [ ]EEEE
 
